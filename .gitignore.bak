@@ -51,8 +51,6 @@ Mkfile.old
 dkms.conf
 Screw STM32 CubeMX Examples/Template/mx.scratch
 Screw STM32 CubeMX Examples/Template/.mxproject
-Screw STM32 CubeMX Examples/Template/MDK-ARM/Template
-Screw STM32 CubeMX Examples/Template/MDK-ARM/DebugConfig
-Screw STM32 CubeMX Examples/Template/RTE
-*.uvoptx
-*.Jack
+Screw STM32 CubeMX Examples/Template/MDK-ARM
+!Screw STM32 CubeMX Examples/Template/MDK-ARM/Template.uvprojx
+!Screw STM32 CubeMX Examples/Template/MDK-ARM/startup_stm32f103xb.s
