@@ -56,3 +56,4 @@ Screw STM32 CubeMX Examples/Template/MDK-ARM/DebugConfig
 Screw STM32 CubeMX Examples/Template/RTE
 *.uvoptx
 *.Jack
+*.lst
